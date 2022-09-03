@@ -1,0 +1,2 @@
+#!/bin/bah
+chmod ugo+x hello
