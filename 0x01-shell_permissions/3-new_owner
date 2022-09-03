@@ -1,2 +1,1 @@
-#!/bin/bash
-Chown --from=hello betty
+chown betty hello
