@@ -1,2 +1,2 @@
 #!/bi/bash
-echo 128
+echo $(($TRUEKNOWLEDGE+128))
